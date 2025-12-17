@@ -1,0 +1,20 @@
+{
+  "name": "The Wife's Heart",
+  "short_name": "Wife's Heart",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ef4444",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/fef2f2/ef4444.png?text=Heart",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://placehold.co/512x512/fef2f2/ef4444.png?text=Heart",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
